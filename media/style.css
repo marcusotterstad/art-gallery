@@ -82,3 +82,11 @@ footer div {
     position: absolute;
     right: 0px;
 }
+
+/* INTERACTIVITY */
+
+@media only screen and (max-width: 480px) {
+    #trademark {
+        font-size: 10px;
+    }
+  }
