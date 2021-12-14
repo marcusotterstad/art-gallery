@@ -55,3 +55,30 @@ header h1 {
     top: 40%;
     background-color: rgba(39, 39, 39, 0.5);;
 }
+
+/* MAIN */
+
+.grid-img img {
+    width: 400px;
+    height: auto;
+}
+
+/* FOOTER */
+footer {
+    display: flex;
+    height: 50px;
+    align-content: flex-start;
+}
+
+footer div {
+    margin-left: 20px;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+#trademark {
+    position: absolute;
+    right: 0px;
+}
